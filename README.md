@@ -1,1 +1,1 @@
-# IMDB-Top-100-Movie-data-scraping
+# IMDB-Top-50-Movie-data-scraping
