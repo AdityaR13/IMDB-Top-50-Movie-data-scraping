@@ -246,7 +246,7 @@ movies_df<-data.frame(Rank = rank_data, Title = title_data,
                       Genre = genre_data, Rating = rating_data,
                       Metascore = metascore_data, Votes = votes_data,
                       Gross_Earning_in_Mil = gross_data,
-                     Director = directors_data, Actor = stars_data)
+                     Director = directors_data, Actor = stars_data, Year = year_data)
 write.csv(movies_df,file = "IMDB Top 50.csv", row.names=FALSE)
 
 
